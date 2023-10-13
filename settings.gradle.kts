@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "ComposeNote"
 include(":app")
- 
+include(":feature:note:data")
+include(":feature:note:ui")
